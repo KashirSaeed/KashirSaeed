@@ -1,4 +1,4 @@
-![logo](https://github.com/KashirSaeed/KashirSaeed/blob/main/background.jpg)
+![logo](https://github.com/KashirSaeed/KashirSaeed/blob/main/github.png)
 <h1 align="center">Hi 👋, I'm Kashir Saeed</h1>
 <h3 align="center">Passionate About Artificial Intelligence and Machine Learning</h3>
 
